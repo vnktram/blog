@@ -331,3 +331,11 @@ title = "LoveIt"
       mhchem = true
     # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
     # Mapbox GL JS 配置 (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+
+[outputs]
+  # LoveIt CHANGED | 0.2.0
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
