@@ -335,7 +335,7 @@ title = "LoveIt"
 [outputs]
   # LoveIt CHANGED | 0.2.0
   home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
+  page = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
