@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://vnktram.github.io"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -10,7 +10,7 @@ theme = "uBlogger"
 
 # website title
 # 网站标题
-title = "uBlogger"
+title = "Venkat's blog"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
@@ -96,7 +96,7 @@ enableEmoji = true
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "uBlogger"
+        title = "Venkat's blog"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -140,9 +140,9 @@ enableEmoji = true
           # URL of avatar shown in home page
           avatarURL = "/avatar/dp_anim.png"
           # title shown in home page (HTML format is supported)
-          title = ""
+          title = "<i class='fab fa-github fa-fw'></i>"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+          subtitle = "Kubernetes Application developer - Hitachi Vantara"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -162,61 +162,6 @@ enableEmoji = true
         Instagram = "xxxx"
         Facebook = "xxxx"
         Telegram = "xxxx"
-        Medium = ""
-        Gitlab = ""
-        Youtubelegacy = "xxxx"
-        Youtubecustom = ""
-        Youtubechannel = ""
-        Tumblr = ""
-        Quora = ""
-        Keybase = ""
-        Pinterest = ""
-        Reddit = ""
-        Codepen = ""
-        FreeCodeCamp = ""
-        Bitbucket = ""
-        Stackoverflow = ""
-        Weibo = ""
-        Odnoklassniki = ""
-        VK = ""
-        Flickr = ""
-        Xing = ""
-        Snapchat = ""
-        Soundcloud = ""
-        Spotify = ""
-        Bandcamp = ""
-        Paypal = ""
-        Fivehundredpx = ""
-        Mix = ""
-        Goodreads = ""
-        Lastfm = ""
-        Foursquare = ""
-        Hackernews = ""
-        Kickstarter = ""
-        Patreon = ""
-        Steam = ""
-        Twitch = ""
-        Strava = ""
-        Skype = ""
-        Whatsapp = ""
-        Zhihu = ""
-        Douban = ""
-        Angellist = ""
-        Slidershare = ""
-        Jsfiddle = ""
-        Deviantart = ""
-        Behance = ""
-        Dribbble = ""
-        Wordpress = ""
-        Vine = ""
-        Googlescholar = ""
-        Researchgate = ""
-        Thingiverse = ""
-        Devto = ""
-        Gitea = ""
-        XMPP = ""
-        Matrix = ""
-        Bilibili = ""
         Email = "xxxx@xxxx.com"
         RSS = true
         [languages.en.params.social.Mastodon]
